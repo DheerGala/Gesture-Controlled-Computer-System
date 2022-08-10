@@ -3,10 +3,14 @@ Control the basic functions of your computer using Gestures. This project is bas
 
 ## SetUp:
 1. pySerial
-    python setup.py install
-    
+```py
+    python setup.py install 
+ ```
 2. pip
-    pip -V
+
+
+3. pyAutoGUI
+
 
 Now The above code has the copy button over it in Github
 
