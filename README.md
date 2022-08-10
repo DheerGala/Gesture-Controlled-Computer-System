@@ -1,7 +1,16 @@
 # Gesture Controlled Computer System
 Control the basic functions of your computer using Gestures. This project is based on Python and Arduino interlinked with each other.
 
-## SetUp:
+## Technologies
+Project is created using:
+- Software:
+    - Python 3.9.6
+        - Libraries used - pySerial, pip, pyAutoGUI
+    - Arduino IDE
+- Hardware:
+   Windows PC with Google Chrome and VLC Media Player installed.
+   
+## Setup
 1. pySerial
    - Install pySerial on your system.
    
