@@ -3,7 +3,7 @@ Control the basic functions of your computer using Gestures. This project is bas
 
 ## SetUp:
 1. pySerial
-    1.1 Install pySerial on your system.
+#### Install pySerial on your system.
     ```
     [https://pypi.org/project/pyserial/](https://pypi.python.org/packages/cc/74/11b04703ec416717b247d789103277269d567db575d2fd88f25d9767fe3d/pyserial-3.4.tar.gz#md5=ed6183b15519a0ae96675e9c3330c69b)
     ```
