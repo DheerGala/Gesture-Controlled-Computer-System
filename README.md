@@ -1,7 +1,12 @@
 # Gesture-Controlled-Computer-System
 Control the basic functions of your computer using Gestures. This project is based on Python and Arduino interlinked with each other.
 
-##
+## Ex: in a README.md :
+
+    sudo apt update
+    sudo apt install snapd
+
+Now The above code has the copy button over it in Github
 
 ## Circuit Diagrams
 
